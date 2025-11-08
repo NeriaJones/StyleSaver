@@ -30,3 +30,7 @@ I will use this list to stay organized and track my progress throughout Sprint 2
 - [ ] Design simple text-based user interface  
 - [ ] Build expense analytics visualization  
 - [ ] Add data storage for user spending records
+
+## Findings from Related Repository
+
+The related repository I explored was **Money Manager by David**, which is a Python-based expense tracker that helps users organize their spending into categories and visualize it through charts.  Money Manager gave me some good insights on how to start my project.
