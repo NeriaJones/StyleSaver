@@ -1,0 +1,25 @@
+# StyleSaver Project Roadmap
+
+**Project Name:** StyleSaver  
+**Developer:** Neria T. Jones  
+**Course:** IS 3020 - Application Development 1  
+**Professor:** Stephanie Sample  
+
+---
+
+## Project Overview
+A program designed to be your smart shopping assistant that helps users stay stylish while saving money. It recommends fashion items personalized for you while tracking your spending and providing budget-friendly suggestions.
+
+---
+
+## Sprint 1 Tasks
+I will use this list to stay organized and track my progress throughout Sprint 1.
+
+- [ ] Create project repository in KSU-IS organization  
+- [ ] Create project team in GitHub  
+- [ ] Write my `README.md` and `projectroadmap.md`  
+- [ ] Search for a related repository on GitHub and evaluate it  
+- [ ] Clone related repository to the team  
+- [ ] Add open-source license to the repository  
+- [ ] Start basic Python project structure  
+
