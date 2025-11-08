@@ -15,13 +15,13 @@ A program designed to be your smart shopping assistant that helps users stay sty
 ## Sprint 1 Tasks
 I will use this list to stay organized and track my progress throughout Sprint 1.
 
-- [ ] Create project repository in KSU-IS organization  
-- [ ] Create project team in GitHub  
-- [ ] Write my `README.md` and `projectroadmap.md`  
-- [ ] Search for a related repository on GitHub and evaluate it  
-- [ ] Clone related repository to the team  
-- [ ] Add open-source license to the repository  
-- [ ] Start basic Python project structure  
+- [X] Create project repository in KSU-IS organization  
+- [X] Create project team in GitHub  
+- [X] Write my `README.md` and `projectroadmap.md`  
+- [X] Search for a related repository on GitHub and evaluate it  
+- [X] Clone related repository to the team  
+- [X] Add open-source license to the repository  
+- [X] Start basic Python project structure  
 
 ## Sprint 2 ideas 
 I will use this list to stay organized and track my progress throughout Sprint 2.
