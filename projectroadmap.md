@@ -23,3 +23,10 @@ I will use this list to stay organized and track my progress throughout Sprint 1
 - [ ] Add open-source license to the repository  
 - [ ] Start basic Python project structure  
 
+## Sprint 2 ideas 
+I will use this list to stay organized and track my progress throughout Sprint 2.
+- [ ] Implement budget tracker feature  
+- [ ] Add fashion recommendation system (AI-based)  
+- [ ] Design simple text-based user interface  
+- [ ] Build expense analytics visualization  
+- [ ] Add data storage for user spending records
